@@ -1,0 +1,7 @@
+Algorithm,Attack Type,Found,Attempts,Execution Time
+MD5,Dictionary,True,11,0.000542
+MD5,Brute Force,True,11,2.7e-05
+SHA-1,Dictionary,True,11,0.00021
+SHA-1,Brute Force,True,11,1.6e-05
+bcrypt,Dictionary,True,11,2.582778
+bcrypt,Brute Force,True,11,2.585218
